@@ -1,1 +1,3 @@
-// Code comming soon
+const CLI = require("../lib/cli");
+
+new CLI().run();
